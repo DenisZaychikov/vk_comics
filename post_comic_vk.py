@@ -7,7 +7,6 @@ import os.path
 import tempfile
 
 API_VERSION = '5.101'
-IMG_FORMAT = '.jpg'
 GROUP_ID = 187184436
 
 
